@@ -1,0 +1,7 @@
+{
+    "name": "barohaf/webshell",
+    "type": "automad-package",
+    "require": {
+        "automad/package-installer": "^1.1 || dev-master"
+    }
+}
